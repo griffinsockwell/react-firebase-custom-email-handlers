@@ -45,4 +45,4 @@ Start the development server.
 $ npm start
 ```
 
-The Action URL can be whatever you want it to be for your application. You just need to handle the queries in the URL. Take a look at 'src/Action.js' to see how it is handling the queries.
+The Action URL can be whatever you want it to be for your application. You just need to handle the queries in the URL. Take a look at '/src/components/Action.js' to see how it is handling the queries.
